@@ -1,0 +1,85 @@
+.s1{
+    border:1px solid rgb(101 31 255 / 16%);
+   width:90%;
+   margin-right:4vw;
+   height:45px;border-radius:8px;display: flex;
+   
+   }
+   .s1 input{
+   background: #fff;
+   outline: none;
+   border:0px solid #fff;font-size:25px;
+   width:89%;
+   }
+   .s1 button{
+   background: #fff;
+   outline: none;
+   border:0px solid #fff;
+   margin-right:3px;
+   }
+
+   .s2{
+    border:1px solid rgb(101 31 255 / 16%);
+   width:90%;
+   margin-right:4vw;
+   height:45px;border-radius:8100px;display: flex;
+   
+   }
+   .s2 input{
+   background: #fff;
+   outline: none;
+   border:0px solid #fff;font-size:25px;
+   width:80%;
+   }
+   .s2 button{
+   background: none;
+   outline: none;
+   border:0px solid #fff;
+   margin-right:10px;
+   }
+
+   .s3{
+background-color:  rgb(101 31 255 / 16%);
+   width:90%;
+   margin-right:4vw;
+   height:45px;border-radius:8100px;display: flex;
+   
+   }
+   .s3 input{
+    background: none;
+   outline: none;
+   border:0px solid #fff;font-size:25px;
+   width:80%;
+   }
+   .s3 button{
+   background: none;
+   outline: none;
+   border:0px solid #fff;
+   margin-right:10px;
+   }
+   .s3 svg {
+       color:#fff;
+   }
+
+   .s4{
+    background-color:  rgb(101 31 255 / 16%);
+       width:90%;
+       margin-right:4vw;
+       height:45px;border-radius:8px;display: flex;
+       
+       }
+       .s4 input{
+        background: none;
+       outline: none;
+       border:0px solid #fff;font-size:25px;
+       width:80%;
+       }
+       .s4 button{
+       background: none;
+       outline: none;
+       border:0px solid #fff;
+       margin-right:10px;
+       }
+       .s4 svg {
+           color:#fff;
+       }
